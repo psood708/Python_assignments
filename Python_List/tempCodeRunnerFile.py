@@ -1,0 +1,1 @@
+r of elements satisfying the condition:",count)
